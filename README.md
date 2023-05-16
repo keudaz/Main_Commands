@@ -4,6 +4,8 @@
 # node install command
 # npm i --legacy-peer-deps
 
+# pip install -r requirements.txt
+
 # expo build android/ios
 # npx expo run:ios
 # npx expo run:android
