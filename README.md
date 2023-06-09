@@ -11,3 +11,4 @@
 # npx expo run:android
 # android SHA1
 # keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+# pyuic5 -x -o save_file_name.py ui_file_name.ui
