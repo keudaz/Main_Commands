@@ -15,3 +15,5 @@
 # npx create-react-app project_name
 # npm audit fix --force
 # https://github1s.com/
+# angular project
+# ng serve --open
