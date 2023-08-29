@@ -17,3 +17,4 @@
 # https://github1s.com/
 # angular project
 # ng serve --open
+# npx expo start --clear
