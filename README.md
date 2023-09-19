@@ -18,3 +18,4 @@
 # angular project
 # ng serve --open
 # npx expo start --clear
+# npm run dev
