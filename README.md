@@ -10,6 +10,9 @@
 # frontend run command
 # npm start
 #
+# node library fix command
+# npm audit fix --force
+#
 # python library install command using txt
 # pip install -r requirements.txt
 #
@@ -24,7 +27,6 @@
 # keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
 # pyuic5 -x -o save_file_name.py ui_file_name.ui
 # npx create-react-app project_name
-# npm audit fix --force
 # https://github1s.com/
 # angular project
 # ng serve --open
