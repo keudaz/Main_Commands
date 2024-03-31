@@ -1,7 +1,7 @@
 # Main_Commands
 
 
-# node install command
+# node / react library install command backend(api)|frontend(client)
 # npm i --legacy-peer-deps
 
 # pip install -r requirements.txt
