@@ -30,3 +30,4 @@
 # https://github1s.com/
 # angular project
 # ng serve --open
+# setx /M REACT_NATIVE_PACKAGER_HOSTNAME 192.168.8.168
